@@ -1,0 +1,15 @@
+.container .navbar.navbar-default{
+	margin-top: 20px;
+	background-color: #D7E1E0;
+}
+
+footer{
+	background-color: #D7E1E0;
+	font-weight: bold;
+	border: thin solid #000000;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 5px;
+	border-radius: 6px;
+	margin-border: 5px;
+}
